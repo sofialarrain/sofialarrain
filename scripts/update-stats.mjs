@@ -145,8 +145,6 @@ const table = `
 | **Total PRs (last 12 mo.)** | ${core.totalPRs} |
 | **Lines added (via PRs)** | ${prAgg.additions} |
 | **Lines deleted (via PRs)** | ${prAgg.deletions} |
-| **Branches across my repos** | ${branches} |
-| **People I collaborated with (PR participants)** | ${prAgg.collaboratorsCount} |
 | **Organizations** | ${core.orgs} |
 `;
 
