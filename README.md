@@ -27,7 +27,17 @@ Software Architecture · Clean Code · REST APIs · Microservices · Scrum
 ---
 ### 📈 GitHub Activity
 <!-- STATS:START -->
-<!-- The table will be inserted here by the GitHub Action -->
+
+| Metric | Value |
+|---|---:|
+| **Total commits (last 12 mo.)** | 87 |
+| **Total PRs (last 12 mo.)** | 17 |
+| **Lines added (via PRs)** | 16041 |
+| **Lines deleted (via PRs)** | 2252 |
+| **Branches across my repos** | 3 |
+| **People I collaborated with (PR participants)** | 3 |
+| **Organizations** | 3 |
+
 <!-- STATS:END -->
 
 
