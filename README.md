@@ -25,17 +25,11 @@ AWS (EC2, Lambda, S3) · Docker · GitHub Actions
 Software Architecture · Clean Code · REST APIs · Microservices · Scrum  
 
 ---
-
 ### 📈 GitHub Activity
+<!-- STATS:START -->
+<!-- The table will be inserted here by the GitHub Action -->
+<!-- STATS:END -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sofialarrain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sofialarrain&theme=tokyonight&hide_border=true" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofialarrain&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="100">
-</p>
 
 
 
