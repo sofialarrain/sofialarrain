@@ -34,8 +34,6 @@ Software Architecture · Clean Code · REST APIs · Microservices · Scrum
 | **Total PRs (last 12 mo.)** | 17 |
 | **Lines added (via PRs)** | 16041 |
 | **Lines deleted (via PRs)** | 2252 |
-| **Branches across my repos** | 3 |
-| **People I collaborated with (PR participants)** | 3 |
 | **Organizations** | 3 |
 
 <!-- STATS:END -->
