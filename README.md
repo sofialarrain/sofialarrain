@@ -30,7 +30,7 @@ Software Architecture · Clean Code · REST APIs · Microservices · Scrum
 
 | Metric | Value |
 |---|---:|
-| **Total commits (last 12 mo.)** | 284 |
+| **Total commits (last 12 mo.)** | 286 |
 | **Total PRs (last 12 mo.)** | 70 |
 | **Lines added (via PRs)** | 53132 |
 | **Lines deleted (via PRs)** | 17554 |
